@@ -1,0 +1,9 @@
+=== HITO 1: KERNEL VULNERABLE CONFIRMADO ===
+Fecha: Thu May 21 22:51:45 UTC 2026
+Hostname: copy-fail-Adrian-Garcia
+Kernel: 6.12.0
+Identidad: uid=1001(student) gid=1001(student) groups=1001(student)
+Módulos AF_ALG:
+(no encontrado con lsmod)
+algif_aead en /proc/modules:
+(no encontrado)
