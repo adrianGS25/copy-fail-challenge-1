@@ -1,0 +1,5 @@
+=== HITO 2: EXPLOIT EXITOSO ===
+Fecha: Fri May 22 03:08:06 UTC 2026
+Hostname: copy-fail-Adrian-Garcia
+Identidad POST-exploit: uid=0(root) gid=0(root) groups=0(root)
+Kernel: 6.12.0
