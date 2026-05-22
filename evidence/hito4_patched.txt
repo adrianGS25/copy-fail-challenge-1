@@ -1,0 +1,9 @@
+=== HITO 4: PARCHE APLICADO ===
+Fecha: Fri May 22 03:46:34 UTC 2026
+Kernel: 6.12.0-dirty
+Identidad: uid=1001(student) gid=1001(student) groups=1001(student)
+Intento exploit post-parche:
+Traceback (most recent call last):
+  File "/home/student/copy_fail_exp.py", line 9, in <module>
+    while i<len(e):c(f,i,e[i:i+4]);i+=4
+FileNotFoundError: [Errno 2] No such file or directory
